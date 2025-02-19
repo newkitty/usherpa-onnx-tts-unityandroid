@@ -2,7 +2,7 @@
 
 #### 介绍
 Unity使用sherpa-onnx实现离线语音合成,编译到安卓手机
-
+项目参考：https://gitee.com/awnuxcvbn/usherpa-onnx-tts.git
 #### 使用说明
 unity版本：2021.3.45f1c1
 1.  下载模型解压放置到StreamingAssets下
