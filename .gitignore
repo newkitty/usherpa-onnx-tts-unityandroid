@@ -1,0 +1,14 @@
+
+Library
+.vsconfig
+Logs
+Temp
+*.sln
+*.dwlt
+obj
+.vs
+Assets/StreamingAssets/vits-zh-aishell3
+*.csproj
+Assets/StreamingAssets/
+packages.config
+Packages/org.k2fsa.sherpa.onnx.*
