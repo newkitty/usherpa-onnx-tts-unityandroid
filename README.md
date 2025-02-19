@@ -10,3 +10,7 @@ unity版本：2021.3.45f1c1
 3.	测试的模型是  
     vits-zh-hf-theresa    
 
+![1](https://github.com/user-attachments/assets/d7618153-6fa5-487a-892c-7813687cc26e)
+![3](https://github.com/user-attachments/assets/7b100419-97fd-4c0f-a9c9-2f49790d6f06)
+![2](https://github.com/user-attachments/assets/f8c130be-3aa6-4fde-9664-e772812bfdfe)
+![微信截图_20241210095448](https://github.com/user-attachments/assets/4672d69d-c52e-40b9-88c0-0ee8270423f7)
