@@ -1,5 +1,8 @@
 # usherpa-onnx-tts-unityandroid
-
+！！！
+这个项目有问题，大家不用下载参考
+This project has issues, please do not download it for reference.
+！！！
 #### 介绍
 Unity使用sherpa-onnx实现离线语音合成,编译到安卓手机
 项目参考：https://gitee.com/awnuxcvbn/usherpa-onnx-tts.git
